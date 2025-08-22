@@ -1,0 +1,5 @@
+{
+  "name": "Cold DM Personalizer",
+  "description": "A simple tool to personalize your cold DMs by replacing a placeholder with a company name. Just type the company name, generate the message, and copy it to your clipboard.",
+  "requestFramePermissions": []
+}
